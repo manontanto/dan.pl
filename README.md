@@ -1,4 +1,4 @@
 # dan.pl
-# prolog for 16 Magicsquare
+# prolog for 4x4 Magicsquare
 # manontanto
 #
